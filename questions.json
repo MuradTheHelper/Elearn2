@@ -1,0 +1,212 @@
+[
+    {
+      "question": "What is the correct greeting for morning?",
+      "options": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+      "correctAnswer": "Good morning",
+      "category": "Greeting"
+    },
+    {
+      "question": "Translate 'Selamat datang' to English:",
+      "options": ["Good bye", "Welcome", "Thank you", "See you later"],
+      "correctAnswer": "Welcome",
+      "category": "Translation"
+    },
+    {
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        "She don't like coffee",
+        "She doesn't likes coffee",
+        "She doesn't like coffee",
+        "She not like coffee"
+      ],
+      "correctAnswer": "She doesn't like coffee",
+      "category": "Grammar"
+    },
+    {
+      "question": "Complete the sentence: 'Once upon a time, there was a _____ princess.'",
+      "options": ["beautiful", "beauty", "beautify", "beautifully"],
+      "correctAnswer": "beautiful",
+      "category": "Story Telling"
+    },
+    {
+      "question": "What is the past tense of 'eat'?",
+      "options": ["eated", "ate", "eaten", "eating"],
+      "correctAnswer": "ate",
+      "category": "Grammar"
+    },
+    {
+      "question": "How do you say 'Terima kasih' in English?",
+      "options": ["You're welcome", "Please", "Thank you", "Excuse me"],
+      "correctAnswer": "Thank you",
+      "category": "Translation"
+    },
+    {
+      "question": "Which word is a synonym for 'happy'?",
+      "options": ["Sad", "Angry", "Joyful", "Tired"],
+      "correctAnswer": "Joyful",
+      "category": "Vocabulary"
+    },
+    {
+      "question": "What is the correct order of words in this sentence? 1. the 2. quickly 3. ran 4. dog",
+      "options": ["1-4-3-2", "4-3-2-1", "1-4-2-3", "4-2-3-1"],
+      "correctAnswer": "1-4-3-2",
+      "category": "Grammar"
+    },
+    {
+      "question": "Which sentence is in the present continuous tense?",
+      "options": [
+        "I eat breakfast every day",
+        "I ate breakfast yesterday",
+        "I am eating breakfast now",
+        "I will eat breakfast tomorrow"
+      ],
+      "correctAnswer": "I am eating breakfast now",
+      "category": "Grammar"
+    },
+    {
+      "question": "What is the opposite of 'hot'?",
+      "options": ["Warm", "Cool", "Cold", "Freezing"],
+      "correctAnswer": "Cold",
+      "category": "Vocabulary"
+    },
+    {
+      "question": "Translate 'Apa kabar?' to English:",
+      "options": ["How are you?", "What's your name?", "Where are you from?", "How old are you?"],
+      "correctAnswer": "How are you?",
+      "category": "Translation"
+    },
+    {
+      "question": "Which word is a verb?",
+      "options": ["Happy", "Table", "Run", "Blue"],
+      "correctAnswer": "Run",
+      "category": "Grammar"
+    },
+    {
+      "question": "Complete the story: 'The little girl was walking through the forest when she saw a _____ cabin.'",
+      "options": ["wooden", "wood", "woods", "wooded"],
+      "correctAnswer": "wooden",
+      "category": "Story Telling"
+    },
+    {
+      "question": "What is the plural form of 'child'?",
+      "options": ["Childs", "Childen", "Children", "Chills"],
+      "correctAnswer": "Children",
+      "category": "Grammar"
+    },
+    {
+      "question": "Which sentence is in the future tense?",
+      "options": [
+        "I go to school every day",
+        "I went to school yesterday",
+        "I am going to school now",
+        "I will go to school tomorrow"
+      ],
+      "correctAnswer": "I will go to school tomorrow",
+      "category": "Grammar"
+    },
+    {
+      "question": "What is the correct spelling?",
+      "options": ["Recieve", "Receive", "Receeve", "Resieve"],
+      "correctAnswer": "Receive",
+      "category": "Writing"
+    },
+    {
+      "question": "Which word means 'a place where books are kept'?",
+      "options": ["Bookstore", "Library", "School", "Office"],
+      "correctAnswer": "Library",
+      "category": "Vocabulary"
+    },
+    {
+      "question": "Translate 'Selamat malam' to English:",
+      "options": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+      "correctAnswer": "Good night",
+      "category": "Translation"
+    },
+    {
+      "question": "Which sentence has correct punctuation?",
+      "options": [
+        "Where are you going",
+        "Where are you going.",
+        "Where are you going?",
+        "Where are you going!"
+      ],
+      "correctAnswer": "Where are you going?",
+      "category": "Writing"
+    },
+    {
+      "question": "Complete the story: 'The brave knight drew his _____ and charged towards the dragon.'",
+      "options": ["shield", "horse", "sword", "armor"],
+      "correctAnswer": "sword",
+      "category": "Story Telling"
+    },
+    {
+      "question": "What is the correct spelling?",
+      "options": ["Recieve", "Receive", "Receeve", "Resieve"],
+      "correctAnswer": "Receive",
+      "category": "Writing"
+    },
+    {
+      "question": "Which word means 'a place where books are kept'?",
+      "options": ["Bookstore", "Library", "School", "Office"],
+      "correctAnswer": "Library",
+      "category": "Vocabulary"
+    },
+    {
+      "question": "Translate 'Selamat malam' to English:",
+      "options": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+      "correctAnswer": "Good night",
+      "category": "Translation"
+    },
+    {
+      "question": "Which sentence has correct punctuation?",
+      "options": [
+        "Where are you going",
+        "Where are you going.",
+        "Where are you going?",
+        "Where are you going!"
+      ],
+      "correctAnswer": "Where are you going?",
+      "category": "Writing"
+    },
+    {
+      "question": "Complete the story: 'The brave knight drew his _____ and charged towards the dragon.'",
+      "options": ["shield", "horse", "sword", "armor"],
+      "correctAnswer": "sword",
+      "category": "Story Telling"
+    },
+    {
+      "question": "What is the past tense of 'sing'?",
+      "options": ["singed", "sang", "sung", "sank"],
+      "correctAnswer": "sang",
+      "category": "Grammar"
+    },
+    {
+      "question": "Which word is an adjective?",
+      "options": ["Run", "Quickly", "Beautiful", "Happily"],
+      "correctAnswer": "Beautiful",
+      "category": "Grammar"
+    },
+    {
+      "question": "Translate 'Sampai jumpa' to English:",
+      "options": ["Hello", "Goodbye", "Thank you", "You're welcome"],
+      "correctAnswer": "Goodbye",
+      "category": "Translation"
+    },
+    {
+      "question": "What is the opposite of 'big'?",
+      "options": ["Small", "Huge", "Gigantic", "Tiny"],
+      "correctAnswer": "Small",
+      "category": "Vocabulary"
+    },
+    {
+      "question": "Which sentence is in the future progressive tense?",
+      "options": [
+        "I will walk to school tomorrow",
+        "I am walking to school now",
+        "I will be walking to school tomorrow",
+        "I walked to school yesterday"
+      ],
+      "correctAnswer": "I will be walking to school tomorrow",
+      "category": "Grammar"
+    }
+  ]

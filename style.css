@@ -1,0 +1,116 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 800px;
+    width: 90%;
+    margin: 20px;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 30px;
+}
+
+#quiz-container, #login-container {
+    margin-top: 20px;
+}
+
+#question {
+    font-size: 1.2em;
+    color: #34495e;
+    margin-bottom: 20px;
+}
+
+#options {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+button {
+    padding: 12px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+#submit-btn, #next-btn, #finish-btn {
+    margin-top: 20px;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+#progress-container {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 1.1em;
+    color: #7f8c8d;
+}
+
+#summary-container {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#score {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #27ae60;
+}
+
+#recommendation {
+    margin-top: 20px;
+    font-style: italic;
+    color: #34495e;
+}
+/* Gaya untuk opsi yang dipilih */
+.selected {
+    background-color: #f39c12; /* Warna oranye yang kontras */
+    color: white;
+}
+
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+
+    #question {
+        font-size: 1.1em;
+    }
+
+    button {
+        font-size: 14px;
+    }
+}
